@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         I'm a full stack JavaScript software engineer, with a core focus on React/Redux architecture, Node.js, and SQL/NoSQL databases.
       </SectionText>
-      <Button onClick={() => window.location = 'https://linkedin.com/stevehong-swe'}>Learn More</Button>
+      <Button onClick={() => window.location = 'https://www.linkedin.com/in/stevehong-swe/'}>Learn More</Button>
     </LeftSection>
   </Section>
 );
