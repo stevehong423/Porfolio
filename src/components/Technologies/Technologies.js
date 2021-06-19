@@ -18,7 +18,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js
+            React.js, Redux, Next.js, TypeScript,ES6+ JavaScript, 
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -28,11 +28,11 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.js and Databases
+            Node.js, Express.js, PostGresQL, MongoDB, GraphQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
-      <ListItem>
+      {/* <ListItem>
         <DiZend size='3rem' />
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
@@ -41,7 +41,7 @@ const Technologies = () =>  (
             Figma
           </ListParagraph>
         </ListContainer>
-      </ListItem>
+      </ListItem> */}
     </List>
   </Section>
 );

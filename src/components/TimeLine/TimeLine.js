@@ -44,7 +44,7 @@ const Timeline = () => {
 
   return (
     <Section id='about'>
-      <SectionTitle>About Me</SectionTitle>
+      {/* <SectionTitle>About Me</SectionTitle>
       <SectionText>I'm a full stack JavaScript software engineer, with a core focus on React/Redux architecture, Node.js, and SQL/NoSQL databases.</SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
@@ -108,7 +108,7 @@ const Timeline = () => {
           </CarouselButton>
         ))}
       </CarouselButtons>
-      <SectionDivider />
+      <SectionDivider /> */}
     </Section>
   );
 };
